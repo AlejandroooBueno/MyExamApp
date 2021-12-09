@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyExamApp</string>
+    <string name="text_hello">\t Компания «КонВенция» занимается всеми видами услуг, связанными с климатическим оборудованием.
+        Мы производим все виды работ в области вентиляции и кондиционирования. Начиная от продажи и установки кондиционеров
+        в квартиры, заканчивая оборудованием крупных объектов по вашим проектам. Мы напрямую сотрудничаем с производителями,
+        благодаря чему гарантируем надежность предлагаемого оборудования.</string>
+    <string name="info_button">Контакты</string>
+    <string name="text_second">Каталог оборудования</string>
+    <string name="imageButtonBack">Назад</string>
+    <string name="text_info"><b>КОНТАКТЫ:</b></string>
+    <string name="website">www.konventia.ru</string>
+    <string name="Logo">Логотип Конвенция</string>
+    <string name="text_contact"> <b>АДРЕС:</b>\n
+        197348, Г. САНКТ-ПЕТЕРБУРГ,  УЛ. АЭРОДРОМНАЯ., Д. 6, ЭТАЖ 4, ОФИС 409.3 \n\n
+        <b>ТЕЛЕФОН / ФАКС:</b> +7 (812) 393-51-14 \n\n
+        <b>E-MAIL:</b> KONVENTIA@MAIL.RU \n\n
+        <b>РЕЖИМ РАБОТЫ:</b> ПН. - ПТ С 9.00 ДО 18.00</string>
+    <string name="Map">Карта</string>
+    <string name="cond">Каталог оборудования</string>
+    <string name="call">Заказать</string>
+    <string name="OtherCondImage">TODO</string>
+    <string name="mainpicture">TODO</string>
+</resources>
